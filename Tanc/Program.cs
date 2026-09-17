@@ -15,6 +15,7 @@ namespace Tanc
             {
                 try
                 {
+                    //helló
                     var stat = new Statisztika();
                     stat.Run();
                 }
