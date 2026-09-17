@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Tanc": {
+      "commandName": "Project"
+    },
+    "DanceStudioConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "--stat"
+    }
+  }
+}
